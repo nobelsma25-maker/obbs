@@ -35,7 +35,7 @@ h1 {
     border-radius: 16px;
     box-shadow: 0 14px 28px rgba(0, 0, 0, 0.15);
 }
-.card-img   {
+.card img   {
     display: block;
     width: 100%;
     height: 190px;
@@ -46,7 +46,7 @@ h1 {
     border-top: 5px solid #6366f1;
 }
 .card-content h2 {
-    margin-botton: 12px;
+    margin-bottom: 12px;
     color: #3730a3;
     font-size: 21px;
 }
